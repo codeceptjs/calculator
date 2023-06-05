@@ -9,7 +9,8 @@ Created with *create-react-app*. See the [full create-react-app guide](https://g
 Try It
 ---
 
-[ahfarmer.github.io/calculator](https://ahfarmer.github.io/calculator/)
+[ahfarmer.github.io/calculator](https://codeceptjs.github.io/test-react-calculator
+/)
 
 
 
